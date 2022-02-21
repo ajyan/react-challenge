@@ -1,0 +1,38 @@
+{"images":[
+  {
+    "id": 1,
+    "filename": "panorama_1.jpeg",
+    "title": "Seefeld Panorama Wildsee",
+    "taken_on": "02/12/2022",
+    "location": "Innsbruck, Austria"
+  },
+  {
+    "id": 2,
+    "filename": "panorama_2.jpeg",
+    "title": "Breyell Lambertimarkt Stinges",
+    "taken_on": "02/09/2022",
+    "location": "Dusseldorf, Germany"
+  },
+  {
+    "id": 3,
+    "filename": "panorama_3.jpeg",
+    "title": "360° Gorges du verdon 1",
+    "taken_on": "05/31/2021",
+    "location": "Aix-en-provence, France"
+  },
+  {
+    "id": 4,
+    "filename": "panorama_4.jpeg",
+    "title": "Villa del Balbianello IV",
+    "taken_on": "09/21/2021",
+    "location": "Tremezzina, Italy"
+  },
+  {
+    "id": 5,
+    "filename": "panorama_5.jpeg",
+    "title": "Iles Trémiti-Italie--360°",
+    "taken_on": "09/03/2021",
+    "location": "Isole Tremiti, Italy"
+  }
+]
+}

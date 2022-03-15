@@ -16,13 +16,13 @@ export const LoginHeader = styled.header`
   padding-bottom: 32px;
 `;
 
-export const LoginHeading = styled.h1`
+export const Heading = styled.h1`
   font-size: 24px;
   font-weight: bold;
   text-align: center;
 `;
 
-export const LoginBody = styled.div`
+export const Body = styled.div`
   padding-right: 32px;
   padding-left: 32px;
 `;
@@ -54,10 +54,9 @@ export const LoginInput = styled.input`
   border-right: 0;
   border-left: 0;
   border-bottom: 1px solid #ddd;
-  transition: border-bottom-color 0.25s ease-in;
 
   &:focus {
-    border-bottom-color: #e5195f;
+    border-bottom-color: #3b3c3b;
     outline: 0;
   }
 `;
@@ -70,7 +69,7 @@ export const LoginButton = styled.button`
   font-size: 14px;
   font-weight: 700;
   color: #fff;
-  background-color: #e5195f;
+  background-color: #3b3c3b;
   border: 0;
   border-radius: 35px;
 `;
